@@ -2,6 +2,11 @@
 
 Uma aplicação de lista de tarefas moderna desenvolvida com **React 19**, **TypeScript**, **Vite** e **Tailwind CSS**. O projeto explora simulação de requisições HTTP, gerenciamento de estados de carregamento e feedback visual para melhor experiência do usuário.
 
+## 🔗 Acesso Rápido
+
+- 🌐 **Local:** [http://192.168.0.59:5173](http://192.168.0.59:5173)
+- 📦 **GitHub:** [github.com/Deka-11/todo](https://github.com/Deka-11/todo)
+
 ## 🎯 Objetivo da Aula
 
 Nesta aula, exploramos como simular requisições HTTP usando **Promises** e **delays**. Os principais conceitos abordados foram:
